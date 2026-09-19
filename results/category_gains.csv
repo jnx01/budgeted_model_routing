@@ -1,0 +1,15 @@
+category,num_questions,small_accuracy,large_accuracy,gain
+other,5,0.4,0.8,0.4
+psychology,5,0.4,0.8,0.4
+business,5,0.4,0.6,0.19999999999999996
+philosophy,5,0.4,0.6,0.19999999999999996
+physics,5,0.4,0.6,0.19999999999999996
+biology,5,0.6,0.6,0.0
+computer science,5,0.6,0.6,0.0
+health,5,0.2,0.2,0.0
+history,5,0.4,0.4,0.0
+law,5,0.2,0.2,0.0
+chemistry,5,0.4,0.2,-0.2
+engineering,5,0.4,0.2,-0.2
+math,5,0.4,0.2,-0.2
+economics,5,0.6,0.2,-0.39999999999999997
